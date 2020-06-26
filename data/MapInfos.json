@@ -1,10 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":892,"scrollY":950.6666666666666},
-{"id":2,"expanded":false,"name":"CAST_001","order":2,"parentId":0,"scrollX":968,"scrollY":1282},
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":816,"scrollY":800},
+{"id":2,"expanded":false,"name":"CAST_001","order":2,"parentId":0,"scrollX":968,"scrollY":1760},
 {"id":3,"expanded":true,"name":"TIEN_001","order":3,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":false,"name":"TIEN_002","order":4,"parentId":0,"scrollX":989.3333333333334,"scrollY":872},
-{"id":5,"expanded":false,"name":"Castillo","order":6,"parentId":0,"scrollX":872,"scrollY":1760},
+{"id":5,"expanded":false,"name":"Castillo","order":6,"parentId":0,"scrollX":871.1999999999999,"scrollY":1634.3999999999999},
 {"id":6,"expanded":false,"name":"PLAN_SUP","order":5,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":7,"expanded":false,"name":"Castillo demoníaco","order":7,"parentId":0,"scrollX":1162.6666666666667,"scrollY":1252}
+{"id":7,"expanded":false,"name":"Castillo demoníaco","order":7,"parentId":0,"scrollX":1162.6666666666667,"scrollY":1252},
+{"id":8,"expanded":false,"name":"Templo flotante","order":8,"parentId":0,"scrollX":816,"scrollY":784}
 ]
