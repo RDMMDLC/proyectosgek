@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":816,"scrollY":714},
-{"id":2,"expanded":false,"name":"CAST_001","order":2,"parentId":0,"scrollX":968,"scrollY":1760},
+{"id":2,"expanded":false,"name":"CAST_001","order":2,"parentId":0,"scrollX":1432,"scrollY":856},
 {"id":3,"expanded":true,"name":"TIEN_001","order":3,"parentId":0,"scrollX":809.4545454545455,"scrollY":713.4545454545455},
 {"id":4,"expanded":false,"name":"TIEN_002","order":4,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":5,"expanded":false,"name":"Castillo","order":6,"parentId":0,"scrollX":854,"scrollY":1616},
